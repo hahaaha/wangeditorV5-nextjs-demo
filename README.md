@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+wangEditor v5 版本 nextjs 使用示例
