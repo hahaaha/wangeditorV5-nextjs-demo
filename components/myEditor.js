@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react"
 import '@wangeditor/editor/dist/css/style.css'
 import { Editor, Toolbar } from '@wangeditor/editor-for-react'
-export default function test() {
+export default function myEditor() {
     const [editor, setEditor] = useState(null) // 存储 editor 实例
     
     const toolbarConfig = {} // 菜单栏配置
